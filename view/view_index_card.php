@@ -13,7 +13,7 @@
     <div class="col mb-5">
                             
                     <div class="card h-150">
-                            <a href="controller/con_view_course.php?id=<?=$result2['id']?>" class="card-link">
+                            <a href="controller/con_view_index.php?id=<?=$result2['id']?>" class="card-link">
                                 <!-- Product image-->
                                 <img class="card-img-top" src="<?=$result2['img'];?>" alt="..." />
                                 <!-- Product details-->

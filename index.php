@@ -34,7 +34,7 @@
 
                 <!-- <form class="d-flex" action="search.php" method="get">      
                     <input class="form-control me-2" type="text" placeholder="Search" aria-label="Search" name="keywords" autocomplete="off"> -->
-                    <button class="btn btn-outline-dark" type="submit" value="Search">Search</button> 
+                 
                 </form>
 
             </div>
@@ -54,7 +54,7 @@
         <div class="container-fluid px-4 px-lg-5 mt-5">
             <div class="row gx-4 gx-lg-5 row-cols-1 row-cols-md-3 row-cols-xl-4 justify-content-center">
                 <?php
-                include "view/view_course_card.php";
+                include "view/view_index_card.php";
                 ?>
             </div>
         </div>
